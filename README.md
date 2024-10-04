@@ -1,2 +1,2 @@
 # Software_Libraries
-  免pe磁盘分区
+  U盘信息检测工具
