@@ -1,7 +1,5 @@
 # 实用软件工具库 🧰
 
-![GitHub stars](https://img.shields.io/github/stars/your-username/Software_Libraries?style=social)
-![GitHub forks](https://img.shields.io/github/forks/your-username/Software_Libraries?style=social)
 
 个人精选的实用软件集合，涵盖系统工具、磁盘管理、多媒体处理等多领域
 
